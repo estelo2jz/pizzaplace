@@ -24,7 +24,7 @@ export const productData = [
     button: 'Add to Cart'
   },
   {
-    img: product1,
+    img: product2,
     alt: 'Pizza',
     name: 'Hawaiian Paradise',
     desc:
@@ -33,7 +33,7 @@ export const productData = [
     button: 'Add to Cart'
   },
   {
-    img: product1,
+    img: product3,
     alt: 'Pizza',
     name: 'Veggie Overload',
     desc:
